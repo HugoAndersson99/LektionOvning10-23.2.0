@@ -1,6 +1,3 @@
 Change was made
 <<<<<<< HEAD
-plugghästen från skaune
-=======
-Tjena kingen
->>>>>>> cce6f827f5c73b9682a86c19a1ac25e7054404ce
+plugghästen
